@@ -1,0 +1,10 @@
+<archetype>
+  <id>xplor</id>
+  <sources>
+    <source>src/main/java/App.java</source>
+    <source>src/main/java/Main.java</source>
+  </sources>
+  <testSources>
+    <source>src/test/java/AppTest.java</source>
+  </testSources>
+</archetype>
