@@ -52,3 +52,11 @@ correctly.
 calling `start();`
 1. There are a handful of tests that can be run to help verify the newly stamped out
 boiler plate project.
+
+
+## TODO
+
+1. Add DB code
+2. Add Logging (Logback, Log4j, something).
+3. Update the template to Java 8
+4. Include a .gitignore for Java in the Template.
